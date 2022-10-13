@@ -1,0 +1,16 @@
+html {
+    background-color: #202a3b;
+    width: 100vw;
+    height: 100vh;
+
+}
+
+span {
+    font-size: 3rem;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
